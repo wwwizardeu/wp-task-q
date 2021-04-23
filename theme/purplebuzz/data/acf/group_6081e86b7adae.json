@@ -1,0 +1,58 @@
+{
+    "key": "group_6081e86b7adae",
+    "title": "[COMPONENT] Icon",
+    "fields": [
+        {
+            "key": "field_6081e873b56ee",
+            "label": "Icon",
+            "name": "icon",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "bolt-circle": "Bolt Circle",
+                "box": "Box",
+                "bulb": "Bulb",
+                "buildings": "Buildings",
+                "check-shield": "Check Shield",
+                "gift": "Gift",
+                "revision": "Revision",
+                "select-multiple": "Select Multiple",
+                "spa": "Spa",
+                "none": "None"
+            },
+            "default_value": "none",
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "return_format": "value",
+            "ajax": 0,
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "content_block": 0,
+    "modified": 1619126660
+}
